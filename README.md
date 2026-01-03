@@ -148,7 +148,7 @@ RefConnect introduces a **gated referral workflow** where seekers must complete 
 You can download and install the RefConnect APK from the link below:
 
 🔗 **APK Download:**  
-https://your-apk-link-here
+https://drive.google.com/file/d/1d9m8uKbWdqCrPA1FH7z_Ae8u9b8YOk1o/view
 
 > Note: Enable **“Install from unknown sources”** on your Android device before installing the APK.
 
@@ -190,7 +190,7 @@ https://your-apk-link-here
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/RefConnect.git
+git clone https://github.com/Shantanupawar77/refconnect-hub.git
 cd RefConnect
 
 
